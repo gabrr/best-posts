@@ -11,6 +11,7 @@
 
 ### FullStack
 [Fwitter App](https://css-tricks.com/rethinking-twitter-as-a-serverless-app/?utm_source=hootsuite&utm_medium=linkedin)
+
 [Payment Solution](https://www.juno.com.br/)
 
 ### Career
