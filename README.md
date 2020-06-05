@@ -16,6 +16,8 @@
 
 [React Animations](https://www.react-spring.io/docs/hooks/use-transition)
 
+[Flexbox](https://yoksel.github.io/flex-cheatsheet/#justify-content)
+
 ### Backend
 [Basic SQL](https://blog.geekhunter.com.br/sql-basico-com-pokemon/)
 
