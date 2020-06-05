@@ -9,6 +9,8 @@
 
 [Cheat Sheet JavaScript](http://overapi.com/javascript)
 
+[Cheat Sheet React JS with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/blob/master/README.md)
+
 ### Front-end
 [Typescript 3.4](https://blog.geekhunter.com.br/typescript-3-4-as-novidades/)
 
