@@ -2,7 +2,10 @@
 
 ### Programming
 [Optional Chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+
 [Free APIs](https://free-for.dev/#/)
+
+[Regular Expressions](https://itnext.io/regular-expressions-tricks-you-should-know-2976c7bd1be3)
 
 ### Front-end
 [Typescript 3.4](https://blog.geekhunter.com.br/typescript-3-4-as-novidades/)
