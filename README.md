@@ -12,6 +12,8 @@
 
 [Internationalization](https://itnext.io/manage-vue-i18n-with-typescript-958b2f69846f?source=collection_home---4------0-----------------------)
 
+[React Animations](https://www.react-spring.io/docs/hooks/use-transition)
+
 ### Backend
 [Basic SQL](https://blog.geekhunter.com.br/sql-basico-com-pokemon/)
 
