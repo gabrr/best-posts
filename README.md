@@ -7,6 +7,8 @@
 
 [Regular Expressions](https://itnext.io/regular-expressions-tricks-you-should-know-2976c7bd1be3)
 
+[Cheat Sheet JavaScript](http://overapi.com/javascript)
+
 ### Front-end
 [Typescript 3.4](https://blog.geekhunter.com.br/typescript-3-4-as-novidades/)
 
@@ -19,7 +21,6 @@
 
 [Servless GraphQL on Netlify](https://khalilstemmler.com/articles/tutorials/deploying-a-serverless-graphql-api-on-netlify/)
 
-[Cheat Sheet JavaScript](http://overapi.com/javascript)
 
 [How to Sucure Your Apps](https://itnext.io/how-to-secure-your-web-applications-part-1-cpas-3-715b72973623)
 
