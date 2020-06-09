@@ -30,6 +30,8 @@
 
 [Knex Cheat Sheet](https://devhints.io/knex)
 
+[How to be a excellent backend](https://blog.geekhunter.com.br/desenvolvedor-back-end/?utm_source=Onesignal&utm_medium=push&utm_campaign=pn-blog)
+
 ### FullStack
 [Fwitter App](https://css-tricks.com/rethinking-twitter-as-a-serverless-app/?utm_source=hootsuite&utm_medium=linkedin)
 
