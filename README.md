@@ -22,6 +22,8 @@
 
 [3D Development](https://threejs.org/)
 
+[React Native Layout](https://medium.com/wix-engineering/the-full-react-native-layout-cheat-sheet-a4147802405c)
+
 ### Backend
 [Basic SQL](https://blog.geekhunter.com.br/sql-basico-com-pokemon/)
 
