@@ -30,7 +30,7 @@
 [Servless GraphQL on Netlify](https://khalilstemmler.com/articles/tutorials/deploying-a-serverless-graphql-api-on-netlify/)
 
 
-[How to Sucure Your Apps](https://itnext.io/how-to-secure-your-web-applications-part-1-cpas-3-715b72973623)
+[How to Secure Your Apps](https://itnext.io/how-to-secure-your-web-applications-part-1-cpas-3-715b72973623)
 
 [Knex Cheat Sheet](https://devhints.io/knex)
 
