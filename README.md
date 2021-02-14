@@ -22,6 +22,8 @@
 
 [3D Development](https://threejs.org/)
 
+[Dark mode](https://web.dev/prefers-color-scheme/#:~:text=The%20prefers%2Dcolor%2Dscheme%20media%20feature%20is%20used%20to%20detect,dark%20text%20on%20light%20background).)
+
 [React Native Layout](https://medium.com/wix-engineering/the-full-react-native-layout-cheat-sheet-a4147802405c)
 
 ### Backend
