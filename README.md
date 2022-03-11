@@ -11,6 +11,8 @@
 
 [Cheat Sheet React JS with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/blob/master/README.md)
 
+[Automatically organize imports in VS Code](https://github.com/gabrr/best-posts/blob/master/VSCode.md)
+
 ### Front-end
 [Typescript 3.4](https://blog.geekhunter.com.br/typescript-3-4-as-novidades/)
 
